@@ -6,7 +6,7 @@ class AccountTemplate extends Component {
         return (
             <div>
                 <div className="title">
-                    내가 쓴 돈
+                    여행 경비 계산기
                 </div>
                 <div className="form">
                     {form}
